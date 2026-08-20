@@ -39,6 +39,7 @@ export const contests: Contest[] = [
     tags: ['Algorithm', 'DP', 'Graph', 'Championship'],
     featured: true,
     imageColor: 'from-indigo-600 to-purple-700',
+    image: '/contest_algorithm.jpg',
   },
   {
     id: '2',
@@ -77,6 +78,7 @@ export const contests: Contest[] = [
     tags: ['AI', 'ML', 'Hackathon', 'DeepLearning'],
     featured: true,
     imageColor: 'from-cyan-600 to-blue-700',
+    image: '/contest_aiml.jpg',
   },
   {
     id: '3',
@@ -113,6 +115,7 @@ export const contests: Contest[] = [
     tags: ['WebDev', 'FullStack', 'Sprint'],
     featured: false,
     imageColor: 'from-emerald-600 to-teal-700',
+    image: '/contest_webdev.jpg',
   },
   {
     id: '4',
@@ -145,6 +148,7 @@ export const contests: Contest[] = [
     tags: ['CTF', 'Security', 'Hacking'],
     featured: false,
     imageColor: 'from-rose-600 to-red-800',
+    image: '/contest_security.jpg',
   },
   {
     id: '5',
@@ -177,6 +181,7 @@ export const contests: Contest[] = [
     tags: ['DataScience', 'ML', 'Analytics', 'Kaggle'],
     featured: true,
     imageColor: 'from-amber-500 to-orange-600',
+    image: '/contest_datascience.jpg',
   },
   {
     id: '6',
@@ -207,5 +212,6 @@ export const contests: Contest[] = [
     tags: ['Design', 'UI', 'UX', 'Figma'],
     featured: false,
     imageColor: 'from-pink-500 to-fuchsia-600',
+    image: '/contest_design.jpg',
   },
 ];
