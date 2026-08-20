@@ -42,5 +42,6 @@ export interface Contest {
   eligibility: string[];
   tags: string[];
   featured: boolean;
-  imageColor: string; // gradient color pair for card visuals
+  imageColor: string;
+  image: string; // banner image path under /public
 }
